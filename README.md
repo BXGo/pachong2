@@ -10,7 +10,7 @@
     inde.py         单独画图程序，草稿用
     
 结果如下：
-    ！[line1 阅读量折线图](https://github.com/jan24/pachong2/master/line1.png)
-    ！[line2 按章汇总的阅读量折线图](https://github.com/jan24/pachong2/master/line2按章.png)
+    ！[line1 阅读量折线图](https://github.com/jan24/pachong2/blob/master/line1.png)
+    ！[line2 按章汇总的阅读量折线图](https://github.com/jan24/pachong2/blob/master/line2按章.png)
     
     
