@@ -10,7 +10,7 @@
     inde.py         单独画图程序，草稿用
     
 结果如下：
-！[line1](https://raw.githubusercontent.com/jan24/pachong2/master/line1.png)
-！[line2](https://raw.githubusercontent.com/jan24/pachong2/master/line2按章.png)
+
     
-    
+![lin1](https://raw.githubusercontent.com/jan24/pachong2/master/line1.png)
+![lin1](https://raw.githubusercontent.com/jan24/pachong2/master/line2按章.png)
