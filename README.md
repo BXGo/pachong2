@@ -1,5 +1,5 @@
-# python 3
-# 本程序目的：使用爬虫收集《廖雪峰Python教程》中每一篇文章的阅读量,并做成折线图
+## python 3
+## 本程序目的：使用爬虫收集《廖雪峰Python教程》中每一篇文章的阅读量,并做成折线图
 ##工具：requests BeautifulSoup selenium matplotlib
 
 文件介绍：
@@ -10,7 +10,7 @@
     inde.py         单独画图程序，草稿用
     
 结果如下：
-    ！[line1 阅读量折线图](https://github.com/jan24/pachong2/lin1.png)
-    ！[line2 按章汇总的阅读量折线图](https://github.com/jan24/pachong2/lin2按章.png)
+    ！[line1 阅读量折线图](https://github.com/jan24/pachong2/line1.png)
+    ！[line2 按章汇总的阅读量折线图](https://github.com/jan24/pachong2/line2按章.png)
     
     
